@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Betelhem 👋
 
-<!--
-**betty1233/betty1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Engineering Student**
 
-Here are some ideas to get you started:
+I'm interested in building software, understanding how things work behind the scenes, and turning ideas into practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring frontend development with React and Tailwind CSS while building my understanding of backend development and full-stack engineering.
+
+I believe the best way to learn is to build, experiment, make mistakes, and keep improving.
+
+### Currently Exploring
+- Frontend Development
+- React & Tailwind CSS
+- Backend Development
+- Full-Stack Engineering
