@@ -32,9 +32,11 @@ Currently exploring frontend development with **React** and **Tailwind CSS**, wh
 **Backend**
 ---
 
+---
+
 ### 03 / GITHUB ACTIVITY
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=betty1233&show_icons=true&theme=tokyonight&hide_border=true)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite" />
