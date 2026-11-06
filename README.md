@@ -1,49 +1,95 @@
-# Betelhem 👋
+<div align="center">
 
-**COMPUTER SCIENCE & ENGINEERING STUDENT**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=230&section=header&text=Betelhem&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=58&descSize=20" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+interfaces+with+React;Styling+with+Tailwind+CSS;Learning+Backend+Development;Growing+into+Full-Stack+Engineering" alt="Typing animation" />
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<br/>
+
+### ✨ CODE • CREATE • GROW ✨
+
+</div>
 
 ---
+
+## 👩‍💻 About Me
 
 I'm interested in software development, problem-solving, and building practical solutions through code.
 
-Currently exploring frontend development with **React** and **Tailwind CSS**, while developing my understanding of backend development and full-stack engineering.
+Currently exploring frontend development with React and Tailwind CSS, while developing my understanding of backend development and full-stack engineering.
 
 ---
 
-### 01 / AREAS OF INTEREST
+## 🗺️ My Journey
 
-- Frontend Development
-- Backend Development
-- Full-Stack Engineering
+<div align="center">
+
+<table>
+  <tr>
+    <th>🎨 Frontend</th>
+    <th>⚙️ Backend</th>
+    <th>🚀 Full-Stack</th>
+  </tr>
+  <tr>
+    <td align="center">Building with<br/><b>React</b> & <b>Tailwind CSS</b></td>
+    <td align="center">Learning with<br/><b>Node.js</b> & <b>Django</b></td>
+    <td align="center">My next<br/><b>big goal</b></td>
+  </tr>
+  <tr>
+    <td align="center">🟢 In progress</td>
+    <td align="center">🟡 Learning</td>
+    <td align="center">🔵 Coming</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-<sub>LEARN • BUILD • IMPROVE</sub>
----
+## 🛠️ Technologies & Tools
 
-### 02 / TECHNOLOGIES & TOOLS
+<div align="center">
 
 **Frontend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,react,tailwind&theme=dark" />
 
-**Backend**
----
+**Backend** (currently learning 🌱)
 
----
-
-### 03 / GITHUB ACTIVITY
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=betty1233&show_icons=true&theme=tokyonight&hide_border=true)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,django,postgres&theme=dark" />
 
 **Developer Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=betty1233&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betty1233&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=betty1233&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=betty1233&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" />
+
+</div>
