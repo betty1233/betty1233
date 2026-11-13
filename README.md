@@ -12,6 +12,7 @@
 <br/>
 
 ### ✨ CODE • CREATE • GROW ✨
+<sub>🌱 Always learning, always building.</sub>
 
 <br/>
 
