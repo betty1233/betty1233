@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=230&section=header&text=Betelhem&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=58&descSize=20" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+interfaces+with+React;Styling+with+Tailwind+CSS;Learning+Backend+Development;Growing+into+Full-Stack+Engineering" alt="Typing animation" />
 
 <br/>
@@ -15,9 +13,11 @@
 
 ### ✨ CODE • CREATE • GROW ✨
 
+<br/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=3" width="100%" />
 
 ## 👩‍💻 About Me
 
@@ -25,7 +25,7 @@ I'm interested in software development, problem-solving, and building practical 
 
 Currently exploring frontend development with React and Tailwind CSS, while developing my understanding of backend development and full-stack engineering.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=3" width="100%" />
 
 ## 🗺️ My Journey
 
@@ -51,7 +51,9 @@ Currently exploring frontend development with React and Tailwind CSS, while deve
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=3" width="100%" />
+
+
 
 ## 🛠️ Technologies & Tools
 
@@ -71,13 +73,13 @@ Currently exploring frontend development with React and Tailwind CSS, while deve
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=3" width="100%" />
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=betty1233&show_icons=true&theme=tokyonight&hide_border=true" />
+
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betty1233&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=betty1233&theme=tokyonight&hide_border=true" />
@@ -86,10 +88,27 @@ Currently exploring frontend development with React and Tailwind CSS, while deve
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=3" width="100%" />
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" />
+[![GitHub](https://img.shields.io/badge/GitHub-betty1233-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/betty1233)
+[![Email](https://img.shields.io/badge/Email-Contact-F7768E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teferabetelhem0@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=3" width="100%" />
+
+
+<div align="center">
+
+
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=3" width="100%" />
+<div align="center">
+
 
 </div>
